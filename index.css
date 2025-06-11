@@ -1,0 +1,232 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.nav{
+    display: flex;
+    padding: 10px 0px;
+    align-items: center;
+    background-color:rgb(247, 110, 190);
+    border-bottom: 2px solid black;
+   
+}
+.nav-one img{
+    width: 150px;
+    height: 100px;
+}
+.nav-one{
+    width:15%;
+    text-align: center;
+}
+.nav-two{
+    width:85%;
+}
+.nav-two ul{
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+    width:80%;
+    margin: auto;
+}
+.nav-two ul li a{
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+
+}
+
+.home{
+    display: flex;
+    padding: 10px 0px;
+    align-items: center;
+    background-color:rgba(0, 0, 255, 0.632);
+    border-bottom: 2px solid black;
+}
+.home ul{
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+    width:80%;
+    margin: auto;
+}
+.home ul li a{
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+}
+.into{
+    display: flex;
+    padding: 10px 0px;
+    align-items: center;
+    background-color:rgba(0, 0, 255, 0.632);
+    border-bottom: 2px solid black;
+}
+.into ul{
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+    width:80%;
+    margin: auto;
+}
+.into ul li a{
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+}
+ .checked{
+    color:gold; 
+ }
+.img{
+      width:100px;
+      height: 250px;
+ }
+ 
+ 
+.on table tr td img{
+    width:200px;
+    height:200px;
+
+}
+.on table tr td{
+    width: 10%;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.in-one table tr td img{
+    width:150px;
+    height:200px;
+    
+
+}
+.in-one table tr td{
+    width: 5%;
+    align-items: center;
+    justify-content: space-around;
+    
+}
+.go table tr td{
+    width: 5%;
+    align-items: center;
+    justify-content: space-around;
+}
+.go table tr td img{
+    width:150px;
+    height:200px;
+    
+}
+.ko table tr td{
+    width: 10%;
+    align-items: center;
+    justify-content: space-around;
+}
+.ko table tr td img{
+   width:150px;
+   height: 200px;
+}
+
+
+.center{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+}
+.chan{
+    padding:40px 0px ;
+}
+.chan-in{
+    width: 90%;
+    margin:auto;
+}
+.fig-two{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 30px 0px;
+    justify-content: space-between;
+}
+.figbox{
+    width: 23%;
+    border: 2px solid black;
+    border-radius: 20px;
+}
+.figbox-one{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 30px;
+  
+}
+
+.figbox-two h1{
+    font-size: 20px;
+}
+.figbox-two{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 10vh;
+}
+.pen{
+    width:250px;
+    height:270px;
+}
+.hat{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+}
+.eat{
+    width: 100px;
+}
+.xx table tr td{
+    width: 5%;
+    align-items: center;
+    justify-content: space-around;
+}
+.xx table tr td img{
+    width:200px;
+    height: 200px;
+}
+.me{
+    height:70vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+}
+.me h1{
+    font-size: 50px;
+    width: 70%;
+    color: rgb(255, 196, 0);
+}
+
+.of-in{
+    width: 23%;
+    border: 2px solid black;
+    border-radius: 20px;
+}
+.ofin-one{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 30px; 
+}
+.ofin-two{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 10vh;
+}
+.ofin-two p{
+    font-size: 20px;
+}
+.food{
+    width:240px;
+    height:270px;
+}
+
